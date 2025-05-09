@@ -1,0 +1,3 @@
+/home/loki/SeniorDesignCode/build/CMakeFiles/main.dir
+/home/loki/SeniorDesignCode/build/CMakeFiles/edit_cache.dir
+/home/loki/SeniorDesignCode/build/CMakeFiles/rebuild_cache.dir
